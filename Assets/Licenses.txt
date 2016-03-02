@@ -1,0 +1,43 @@
+Designer: Nathan Bremmer
+Developer: Nathan Bremmer
+
+Images:
+Character Sprite
+http://untamed.wild-refuge.net/rmxpresources.php?characters
+Author: Sithjester's
+License: free or commercial games, edited how you want, or as bases for your own sprites. Just be sure to credit me
+
+Iron Plague Pointer/Cursor
+http://opengameart.org/content/iron-plague-pointercursor
+Author: Daniel Cook
+License: CC-BY 3.0
+
+PBS Materials Variety Pack
+http://u3d.as/fgw
+Author: Integrity Software & Game
+
+Yughues Free Stone Materials
+http://u3d.as/5To
+Author: Nobiax / Yughues
+
+Fonts:
+Square Font Pack
+http://u3d.as/3hD
+Author: Ray Larabie
+
+
+Music and Sound Effects:
+Fantasy Sound Library
+http://opengameart.org/content/fantasy-sound-effects-library
+Author: Little Robot Sound Factory
+License: CC-BY 3.0
+
+Menu and Item Jingles Sample 2
+http://opengameart.org/content/ui-and-item-sound-effect-jingles-sample-2
+Author: Virix
+License: CC-BY 3.0
+
+Author: Alexandr Zhelanov
+http://opengameart.org/users/alexandr-zhelanov
+License: CC-BY 3.0
+
